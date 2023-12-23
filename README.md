@@ -1,6 +1,6 @@
 HTML, CSS, JavaScript - Slide In Infinite Scroll - This project demonstrates an engaging scrolling effect for webpage content. As users scroll down, content containers elegantly slide into view from both the left and right sides. Conversely, when scrolling up, these containers smoothly slide out of view. The effect adds dynamism and visual appeal to your webpages.
 
-# Key Features #
+Key Features:
 Smooth Animation: Content slides in and out seamlessly as users scroll.
 Responsive Design: Works well across different devices and screen sizes.
 Minimal Dependencies: Built using HTML, CSS, and JavaScript.
