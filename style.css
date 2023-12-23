@@ -35,9 +35,7 @@ h1 {
 }
 
 /* every other content box is moved off the screen but to the 
-opposite side, in javascript they will be animated back to the 
-center as the user scrolls down, sliding back from left and right 
-(in turns) creating cool-looking scrolling effect */
+opposite side */
 .box:nth-of-type(even) {
     transform: translateX(-400%);
 }
