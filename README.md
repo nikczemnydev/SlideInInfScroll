@@ -1,3 +1,5 @@
+# Latest Addition: You can now view it online at https://codepen.io/nikczemnydev/pen/vYPWxzL #
+
 HTML, CSS, JavaScript - Slide In Scroll - This product demonstrates an engaging scrolling effect for webpage content. As users scroll down, content containers elegantly slide into view from both the left and right sides. Conversely, when scrolling up, these containers smoothly slide out of view. The effect adds dynamism and visual appeal to your webpages.
 
 Key Features:
